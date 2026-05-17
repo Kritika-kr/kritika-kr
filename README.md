@@ -1,15 +1,17 @@
 # Hi, I'm Kritika Kumari
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=7F3FBF&center=true&vCenter=true&width=700&lines=ECE+Student;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Modern+Web+Applications" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&width=700&lines=ECE+Student;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Modern+Web+Applications" />
+</p>
 
 ---
 
 ## About Me
 
 - ECE Student at BVCOE, New Delhi
-- Full Stack Developer passionate about scalable and user-friendly applications
-- Interested in Web Development, Data Analytics, and Business Intelligence
-- Exploring modern technologies and practical software solutions
+- Interested in Full Stack Development and Business Intelligence
+- Building scalable and user-friendly applications
+- Exploring modern web technologies and analytics
 
 ---
 
@@ -46,7 +48,7 @@
   <a href="https://codeforces.com/">
     <img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces" />
   </a>
-  
+
   <a href="https://www.codechef.com/">
     <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef" />
   </a>
@@ -60,13 +62,15 @@
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kritika-kr&show_icons=true&theme=tokyonight" height="170"/>
-  
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-kr&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=kritika-kr&theme=tokyonight" />
 </p>
 
@@ -75,25 +79,21 @@
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kritika-kumari-147153266/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="mailto:kritikakumari158@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://kritikakumari.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-  </a>
-
-  <a href="https://codolio.com/profile/kritika_">
-    <img src="https://img.shields.io/badge/Codolio-Profile-purple?style=for-the-badge" />
+  <a href="https://www.codolio.com/profile/kritika-kr">
+    <img src="https://img.shields.io/badge/Codolio-Profile-8A2BE2?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kritika-kr&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kritika-kr&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
 </p>
