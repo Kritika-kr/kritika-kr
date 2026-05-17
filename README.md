@@ -1,14 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=0:111111,100:D4A373&text=Kritika%20Kumari&fontAlignY=45&fontSize=48&fontColor=F5F5F5&animation=blinking"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F0F,50:1A1A1A,100:D4A373&text=Kritika%20Kumari&fontSize=58&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=22&pause=1000&color=D4A373&center=true&vCenter=true&width=850&lines=ECE+Student+%E2%80%A2+Full+Stack+Developer;Crafting+Minimal+%26+Elegant+Interfaces;Building+Scalable+Web+Applications;Exploring+Data+Analytics+%26+Business+Intelligence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=850&lines=ECE+Student+%E2%80%A2+Full+Stack+Developer;Crafting+Elegant+Digital+Experiences;Building+Scalable+Web+Applications;Exploring+Modern+Technologies" />
 
 <br><br>
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6m4g3yzf5rm5v4x4c4w7n7dvy&cover_image=true&theme=novatorem&show_offline=false&background_color=111111&interchange=false&bar_color=D4A373&bar_color_cover=false"/>
+<a href="https://kritikakumari.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-D4A373?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/kritika-kr">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D4A373"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kritika-kumari-8a2473287/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D4A373"/>
+</a>
+
+<a href="mailto:kritikakumari158@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D4A373"/>
+</a>
+
+</div>
+
+---
+
+#  Preview
+
+<div align="center">
+
+<img src="./github_demo_preview.gif" width="100%" style="border-radius:18px;" />
 
 </div>
 
@@ -44,11 +68,7 @@ const kritika = {
 
 <td width="45%">
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
-
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -132,35 +152,9 @@ const kritika = {
 
 ---
 
-## / activity_graph
-
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kritika-kr&bg_color=00000000&color=D4A373&line=D4A373&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## / connect
-
-<div align="center">
-
-<a href="https://kritikakumari.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-D4A373?style=flat-square&logo=vercel&logoColor=000000"/>
-</a>
-
-<a href="https://github.com/kritika-kr">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=D4A373"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kritika-kumari-8a2473287/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=D4A373"/>
-</a>
-
-<a href="mailto:kritikakumari158@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=D4A373"/>
-</a>
 
 </div>
 
