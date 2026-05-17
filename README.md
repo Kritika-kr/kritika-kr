@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F0F,50:1A1A1A,100:D4A373&text=Kritika%20Kumari&fontSize=60&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0F0F,50:1A1A1A,100:D4A373&text=Kritika%20Kumari&fontSize=62&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=D4A373&center=true&vCenter=true&width=750&lines=ECE+Student;Full+Stack+Developer;Creating+Elegant+Digital+Experiences;Exploring+Modern+Web+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&duration=3000&pause=1000&color=D4A373&center=true&vCenter=true&multiline=true&width=900&height=100&lines=ECE+Student+%7C+Full+Stack+Developer;Building+Elegant+Digital+Experiences;Exploring+Modern+Web+Technologies" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
 
 <br><br>
 
@@ -30,13 +34,15 @@
 
 <div align="center">
 
-<img width="90%" src="https://user-images.githubusercontent.com/74038190/212750133-ffe05a0d-e535-4c65-aada-5410930b87d8.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656967-3477b4e8-0f74-4b7f-b4e9-6d3b8f8d4c52.gif"/>
 
 </div>
 
 ---
 
 #  About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name: Kritika Kumari
@@ -54,6 +60,8 @@ currently_learning:
   - Scalable Systems
   - Clean UI/UX
 ```
+
+<br><br><br><br><br><br><br><br>
 
 ---
 
@@ -119,7 +127,7 @@ currently_learning:
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=kritika-kr&theme=transparent&hide_border=true&ring=D4A373&fire=D4A373&currStreakLabel=D4A373"/>
+<img width="78%" src="https://streak-stats.demolab.com?user=kritika-kr&theme=transparent&hide_border=true&ring=D4A373&fire=D4A373&currStreakLabel=D4A373"/>
 
 </div>
 
@@ -152,6 +160,14 @@ currently_learning:
 <a href="mailto:kritikakumari158@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D4A373"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
