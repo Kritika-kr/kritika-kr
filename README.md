@@ -1,6 +1,10 @@
 # Hi, I'm Kritika Kumari
 
-ECE student at BVCOE, New Delhi. I like building web apps, trying out new frontend ideas, and working on backend functionality for projects that are actually useful and easy to use. Mostly working with React, Node.js, JavaScript, Python.
+ECE student at BVCOE, New Delhi, working with React, Node.js, JavaScript, Python and related web technologies on web applications and backend development.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kritika-kr&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
