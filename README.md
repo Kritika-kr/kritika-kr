@@ -1,38 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:D4A373&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=0:111111,100:D4A373&text=Kritika%20Kumari&fontAlignY=45&fontSize=48&fontColor=F5F5F5&animation=blinking"/>
 
 <br>
 
-<h1>
-Kritika Kumari
-</h1>
-
-<p>
-ECE Student • Full Stack Developer • Data Analytics Enthusiast
-</p>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=D4A373&center=true&vCenter=true&width=750&lines=Designing+Modern+Digital+Experiences;Building+Scalable+Applications;Exploring+Creative+Web+Technologies;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=22&pause=1000&color=D4A373&center=true&vCenter=true&width=850&lines=ECE+Student+%E2%80%A2+Full+Stack+Developer;Crafting+Minimal+%26+Elegant+Interfaces;Building+Scalable+Web+Applications;Exploring+Data+Analytics+%26+Business+Intelligence" />
 
 <br><br>
 
-<a href="https://kritikakumari.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-D4A373?style=flat-square&logo=vercel&logoColor=000000"/>
-</a>
-
-<a href="https://github.com/kritika-kr">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=D4A373"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kritika-kumari-8a2473287/">
-<img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=D4A373"/>
-</a>
-
-<a href="mailto:kritikakumari158@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1A1A1A?style=flat-square&logo=gmail&logoColor=D4A373"/>
-</a>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w6m4g3yzf5rm5v4x4c4w7n7dvy&cover_image=true&theme=novatorem&show_offline=false&background_color=111111&interchange=false&bar_color=D4A373&bar_color_cover=false"/>
 
 </div>
 
@@ -42,31 +18,37 @@ ECE Student • Full Stack Developer • Data Analytics Enthusiast
 <tr>
 <td width="55%">
 
-### About Me
+## / about_me
 
-```yaml
-name: Kritika Kumari
-role: Full Stack Developer
+```typescript
+const kritika = {
+  education: "B.Tech ECE @ BVCOE",
+  role: "Full Stack Developer",
 
-education:
-  - B.Tech ECE @ BVCOE
+  interests: [
+    "Modern Web Development",
+    "Data Analytics",
+    "Business Intelligence",
+    "Clean UI/UX"
+  ],
 
-interests:
-  - Web Development
-  - Data Analytics
-  - Business Intelligence
-
-currently_learning:
-  - Scalable Systems
-  - Clean UI/UX
-  - Modern Technologies
+  currentlyLearning: [
+    "Scalable Systems",
+    "System Design",
+    "Modern Technologies"
+  ]
+}
 ```
 
 </td>
 
 <td width="45%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0b3RrZTF5a3R1N2g3OW5vZ2s0bXg4MWQ2NXBnM2Z4M3N3Y3B5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
+
+</div>
 
 </td>
 </tr>
@@ -74,11 +56,19 @@ currently_learning:
 
 ---
 
-## Tech Stack
+## / tech_stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql,html,css,react,nodejs,express,mysql,git,github,vscode,aws&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,aws" />
 
 </div>
 
@@ -86,51 +76,43 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-0F0F0F?style=flat-square&logo=powerbi&logoColor=D4A373"/>
+<img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=D4A373"/>
 
-<img src="https://img.shields.io/badge/Excel-0F0F0F?style=flat-square&logo=microsoft-excel&logoColor=D4A373"/>
+<img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel&logoColor=D4A373"/>
 
-<img src="https://img.shields.io/badge/Pandas-0F0F0F?style=flat-square&logo=pandas&logoColor=D4A373"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=D4A373"/>
 
-<img src="https://img.shields.io/badge/NumPy-0F0F0F?style=flat-square&logo=numpy&logoColor=D4A373"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=D4A373"/>
 
 </div>
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=kritika-kr&data=followers,repositories,stars,commits&theme=dark"/>
-
-</div>
-
-<br>
+## / coding_profiles
 
 <div align="center">
 
 <a href="https://codeforces.com/profile/kritika_kr">
-<img src="https://img.shields.io/badge/Codeforces-Pupil-0F0F0F?style=flat-square&logo=codeforces&logoColor=D4A373"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Codeforces-Pupil-111111?style=for-the-badge&logo=codeforces&logoColor=D4A373"/>
 </a>
 
-<a href="https://www.codechef.com/users/">
-<img src="https://img.shields.io/badge/CodeChef-3★-0F0F0F?style=flat-square&logo=codechef&logoColor=D4A373"/>
+<a href="https://www.codechef.com/">
+<img src="https://custom-icon-badges.demolab.com/badge/CodeChef-3★-111111?style=for-the-badge&logo=codechef&logoColor=D4A373"/>
 </a>
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-1500+-0F0F0F?style=flat-square&logo=leetcode&logoColor=D4A373"/>
+<img src="https://custom-icon-badges.demolab.com/badge/LeetCode-1500+-111111?style=for-the-badge&logo=leetcode&logoColor=D4A373"/>
 </a>
 
 <a href="https://www.codolio.com/profile/kritika-kr">
-<img src="https://img.shields.io/badge/Codolio-Profile-0F0F0F?style=flat-square&logoColor=D4A373"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Codolio-Profile-111111?style=for-the-badge&logoColor=D4A373"/>
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## / github_analytics
 
 <div align="center">
 
@@ -144,7 +126,41 @@ currently_learning:
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kritika-kr&theme=transparent&hide_border=true&ring=D4A373&fire=D4A373&currStreakLabel=D4A373"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=kritika-kr&theme=transparent&hide_border=true&ring=D4A373&fire=D4A373&currStreakLabel=D4A373"/>
+
+</div>
+
+---
+
+## / activity_graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kritika-kr&bg_color=00000000&color=D4A373&line=D4A373&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## / connect
+
+<div align="center">
+
+<a href="https://kritikakumari.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-D4A373?style=flat-square&logo=vercel&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/kritika-kr">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=D4A373"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kritika-kumari-8a2473287/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=D4A373"/>
+</a>
+
+<a href="mailto:kritikakumari158@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=D4A373"/>
+</a>
 
 </div>
 
@@ -152,7 +168,7 @@ currently_learning:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kritika-kr&bg_color=00000000&color=D4A373&line=D4A373&point=FFFFFF&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -160,14 +176,6 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:D4A373&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111111,100:D4A373"/>
 
 </div>
