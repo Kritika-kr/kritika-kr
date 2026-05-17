@@ -1,24 +1,6 @@
 # Hi, I'm Kritika Kumari
 
-I'm an ECE student at BVCOE, New Delhi who enjoys building web applications and working on ideas that are simple, useful, and easy to use. I like frontend development, real-time applications, and exploring data analytics alongside development.
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mysql,git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
+ECE student at BVCOE, New Delhi. I like building web apps, trying out new frontend ideas, and working on backend functionality for projects that are actually useful and easy to use. Mostly working with React, Node.js, JavaScript, Python.
 
 ---
 
@@ -31,12 +13,14 @@ I'm an ECE student at BVCOE, New Delhi who enjoys building web applications and 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kritika-kr&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=kritika-kr&theme=tokyonight"/>
 </p>
 
 ---
 
 ## Connect With Me
+
+Feel free to connect or say hello.
 
 <p>
   <a href="https://kritikakumari.vercel.app/">
@@ -47,7 +31,7 @@ I'm an ECE student at BVCOE, New Delhi who enjoys building web applications and 
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/kritika-kumari-8a2473287/">
+  <a href="https://www.linkedin.com/in/kritika-kumari-147153266/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
