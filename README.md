@@ -7,23 +7,18 @@ I'm an ECE student at BVCOE, New Delhi who enjoys building web applications and 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,sql,html,css,react,nodejs,express,mysql,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mysql,git,github,vscode" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoft-excel&logoColor=217346"/>
-  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
-
----
-
-## Coding Profiles
-
-- Codeforces: Pupil  
-- CodeChef: 3★  
-- LeetCode: 1500+ Rating  
 
 ---
 
@@ -52,7 +47,7 @@ I'm an ECE student at BVCOE, New Delhi who enjoys building web applications and 
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/kritika-kumari-147153266/">
+  <a href="https://www.linkedin.com/in/kritika-kumari-8a2473287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
