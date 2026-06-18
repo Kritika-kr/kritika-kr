@@ -6,21 +6,6 @@ ECE student at BVCOE, New Delhi, working with React, Node.js, JavaScript, Python
   <img src="https://komarev.com/ghpvc/?username=kritika-kr&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritika-kr&show_icons=true&theme=tokyonight" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-kr&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kritika-kr&theme=tokyonight"/>
-</p>
-
----
 
 ## Connect With Me
 
